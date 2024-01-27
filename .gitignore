@@ -1,0 +1,36 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+venv/
+conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and runtime data
+logs/
+*.log
+*.pid
+*.cfg
+*.ini
+*.conf
+
+# Local data
+data/
+*.db
+
+# Compiled C extension
+__pycache__/
+*.so
+*.pyd
+
+# macOS system files
+.DS_Store
+
+# Windows Thumbs.db file
+Thumbs.db
+
+nn.py
